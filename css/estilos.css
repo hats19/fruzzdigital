@@ -1,0 +1,239 @@
+body {
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+.imglogo{
+    width: 50%;
+}
+
+.notificacion{
+    margin-top: 20px;
+}
+.notificacion .imgnoti{
+    width: 8%;
+}
+.bsection3{
+    background-color: rgba(255, 164, 16, 1);
+    width: 85%;
+    height: 50px;
+    border-radius: 10px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 10px 35px 10px 35px;
+}
+.p1sec3{
+    color: rgba(255, 164, 16, 1);
+    margin-bottom: 0px;
+}
+.p2sec3{
+    margin-bottom: 0px;
+}
+.f6{
+    padding: 8px 16px 0px 16px;
+}
+.imgestre{
+    width: 35%;
+    height: 13px;
+}
+.p1scar1{
+    color: rgba(255, 164, 16, 1);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.scar1{
+    background-image: url(../img/Rectangle\ 12.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 10px color(rbga 0, 0, 0, 0.5);
+    display: flex;
+    left: 90px;
+    top: 5px;
+}
+.titulo{
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.scar2{
+    left: 90px;
+}
+.p1scar2{
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.scar3{
+    left: 90px;
+}
+.p1scar3{
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.b2section3{
+    background-color: rgba(255, 164, 16, 1);
+    width: 70%;
+    height: 70px;
+    border-radius: 29px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 0px 60px 0px 60px;
+}
+.pfooter{
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.imghome{
+    width: 40px;
+    height: 40px;
+}
+.imgsearch{
+    width: 40px;
+    height: 40px;
+}
+.imgcreate{
+    width: 40px;
+    height: 40px;
+}
+.imgdashboard{
+    width: 40px;
+    height: 40px;
+}
+.imgprofile{
+    width: 40px;
+    height: 40px;
+}
+.f10{
+    display: flex;
+    border: 5px;
+    background-color: rgba(255, 164, 16, 1);
+    width: 90%;
+    height: 70px;
+    border-radius: 29px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    margin: 15px 20px 15px 20px;
+    padding: 20px;
+    padding-bottom: 20px;
+    justify-content: space-evenly;
+}
+.imgpopup{
+    width: 25%;
+    height: 25%;
+}
+.imgcerrar{
+    width: 25px;
+    height: 25px;
+}
+.cerrar{
+    background-color: black;
+}
+.titulopopup{
+    color: rgba(255, 164, 16, 1);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.botonpop{
+    background-color: rgba(255, 255, 255, 1);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.bpopup{
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.pdescripcion{
+    color:rgba(255, 255, 255, 1);
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.informacion{
+    display: flex;
+}
+.imginfo{
+    width: 45%;
+}
+.nombreartis{
+    color: rgba(233, 233, 233, 1);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.imgcategoria{
+    width: 20px;
+}
+.pfecha{
+    color: rgba(141, 141, 141, 1);
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.pmasinfo{
+    color: rgba(255, 255, 255, 1);
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: justify;
+}
+.pver{
+    color: rgba(255, 164, 16, 1);
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+}
